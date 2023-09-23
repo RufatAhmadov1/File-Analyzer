@@ -1,0 +1,2 @@
+This is an example sentence. It contains some punctuation marks, special characters, and line breaks.
+We want to analyze this text and extract useful information. Let's see how the File Analyzer performs!
