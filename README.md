@@ -1,7 +1,8 @@
-# Project Description: The File Analyzer is a Python program that analyzes a text file and provides
+# Project Description:
+The File Analyzer is a Python program that analyzes a text file and provides
 various statistics related to the content of the file. It helps users understand the composition of
 the text and extract useful insights.
-Features:
+# Features:
 Word Count: The program counts the total number of words present in the text file. It splits the
 content based on whitespace and punctuation to identify individual words and calculates their
 count.
@@ -10,7 +11,7 @@ includes all characters, including spaces, punctuation marks, and special symbol
 Frequency of Each Word: The program determines the frequency of each unique word present
 in the text file. It counts how many times each word appears and generates a report with the
 word and its corresponding count.
-Functionality:
+# Functionality:
 Input: The program prompts the user to provide the path to the text file they want to analyze. It
 validates the path and checks if the file exists.
 Text Parsing: The program reads the contents of the text file and cleans it by removing any
@@ -24,4 +25,4 @@ Word Frequency Calculation: The program creates a dictionary to store the freque
 unique word. It iterates over the words in the text, increments the count for each word
 encountered, and generates a report with the word and its corresponding count.
 Output: The program displays the calculated statistics to the user. It provides the word count,
-character count, and a report showing the frequency of each word in the text
+character count, and a report showing the frequency of each word in the text.
